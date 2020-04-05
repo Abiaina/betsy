@@ -1,4 +1,4 @@
-# bEtsy
+# FruEtsy: Group Fruit Themed E-Commerce Site. Work is on another Repo: https://github.com/marikoja/betsy/commits/master .
 [Much like other e-commerce platforms](https://www.etsy.com/), your team will make an online store where a wide variety of products can be listed and sold by any user. This project focuses on reinforcing the major components of Rails, model validations, testing, and more complex logic such as user authentication.
 
 This is a [Stage 3](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md) project requiring you to expand upon what you have learned in class.
